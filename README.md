@@ -1,6 +1,6 @@
 # Demo Platica: Obtenga más Productividad Creando Proyectos Sin Servidor con Visual Studio Code & Node.js - IWD Event by GDG Cancún
 
-[![node.png](https://i.postimg.cc/K86N5ZC5/node.png)](https://postimg.cc/bZRkyjyG)
+[![bit-community.png](https://i.postimg.cc/4yVhWzYt/bit-community.png)](https://postimg.cc/BPZ66PcQ)
 
 Repositorio responsable de demos relacionadas con el evento **[IWD 2020](https://www.womentechmakers.com/iwd20)** organizado por el **[GDG de Cancún](http://gdgcancun.com/#/home)**
 
@@ -36,3 +36,18 @@ Si eres estudiante en cualquier universidad, se puede crear su cuenta de Azure f
 ```
 
 Abra el navegador en: `http://localhost:7071/api/students` y listo. ¡Ejecutará su primer disparador HTTP en el navegador! ❤️ ❤️
+
+## Enlaces y Recursos Importantes ❗️
+
+Durante la platica, yo hablé sobre algunas documentaciones, enlaces y recursos importantes que pueden ayudarlo a conocer más sobre Arquitectura Sin Servidor y Azure Functions
+
+- ✅ **[Slide Presentation](https://bit.ly/2yzYPT4)**
+- ✅ **[Azure para desarrolladores JavaScript y Node.js](https://docs.microsoft.com/javascript/azure/?WT.mc_id=iwdevent-github-gllemos&view=azure-node-latest)**
+- ✅ **[Documentación Azure Functions](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=iwdevent-github-gllemos)**
+- ✅ **[Extensão Vs Code – Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=senacpoa-github-gllemos)**
+- ✅ **[E-Book Grátis - Azure Serverless Computing Cookbook](https://azure.microsoft.com/resources/azure-serverless-computing-cookbook/?WT.mc_id=iwdevent-github-gllemos)**
+- ✅ **[Cursos Grátis - Azure Functions](https://docs.microsoft.com/learn/browse/?term=functions&WT.mc_id=iwdevent-github-gllemos)**
+
+## ¿Dudas? ❗️❗️
+
+Si tiene preguntas sobre los códigos de proyecto relacionados con la platica, no dude en abrir un **[ISSUE AQUI](https://github.com/glaucia86/iwd-serverless-demo/issues)**. ¡Tan pronto como sea posible, responderé cualquier pregunta que pueda tener!
