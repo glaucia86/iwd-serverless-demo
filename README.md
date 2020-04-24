@@ -1,4 +1,4 @@
-# Demo Platica: Obtenga más Productividad Creando Proyectos Sin Servidor con Visual Studio Code & Node.js - IWD Event by GDG Cancún
+# Demos: Obtenga más Productividad Creando Proyectos Sin Servidor con Visual Studio Code & Node.js - IWD Event by GDG Cancún
 
 [![bit-community.png](https://i.postimg.cc/4yVhWzYt/bit-community.png)](https://postimg.cc/BPZ66PcQ)
 
