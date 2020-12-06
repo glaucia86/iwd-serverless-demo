@@ -6,18 +6,18 @@ Repositorio responsable de demos relacionadas con el evento **[IWD 2020](https:/
 
 ## Recursos Utilizados 🚀
 
-* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=iwdevent-github-gllemos)**
+* **[Visual Studio Code](https://code.visualstudio.com/?WT.mc_id=javascript-0000-gllemos)**
 * **[Node.js](https://nodejs.org/en/)**
 * **[Postman](https://www.getpostman.com/)**
-* **[Conta - Azure](https://azure.microsoft.com/es-es/?WT.mc_id=iwdevent-github-gllemos)**
+* **[Conta - Azure](https://azure.microsoft.com/?WT.mc_id=javascript-0000-gllemos)**
 * **[Mongodb Community Server](https://www.mongodb.com/download-center/community)**
 * **[MongodB Compass GUI](https://www.mongodb.com/download-center/compass)**
-* **[Extensión Visual Studio Code: Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=iwdevent-github-gllemos)**
-* **[Azure Storage Account](https://azure.microsoft.com/pt-br/services/storage/?WT.mc_id=iwdevent-github-gllemos)**
+* **[Extensión Visual Studio Code: Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=javascript-0000-gllemos)**
+* **[Azure Storage Account](https://azure.microsoft.com/services/storage/?WT.mc_id=javascript-0000-gllemos)**
 
 ## Azure for Students ⭐️
 
-Si eres estudiante en cualquier universidad, se puede crear su cuenta de Azure for Students **[Azure for Students](https://azure.microsoft.com/es-es/free/students/?WT.mc_id=iwdevent-github-gllemos)**. Esta cuenta le dará el beneficio en tener un crédito de $ 100 para usar los servicios de forma gratuita, sin tener necesidade una tarjeta de crédito. Para activar esta cuenta, haga clic: **[AQUÍ](https://azure.microsoft.com/es-es/free/students/?WT.mc_id=iwdevent-github-gllemos)**
+Si eres estudiante en cualquier universidad, se puede crear su cuenta de Azure for Students **[Azure for Students](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**. Esta cuenta le dará el beneficio en tener un crédito de $ 100 para usar los servicios de forma gratuita, sin tener necesidade una tarjeta de crédito. Para activar esta cuenta, haga clic: **[AQUÍ](https://azure.microsoft.com/free/students/?WT.mc_id=javascript-0000-gllemos)**
 
 ### Ejecutando la Aplicación Localmente
 
@@ -42,11 +42,11 @@ Abra el navegador en: `http://localhost:7071/api/students` y listo. ¡Ejecutará
 Durante la platica, yo hablé sobre algunas documentaciones, enlaces y recursos importantes que pueden ayudarlo a conocer más sobre Arquitectura Sin Servidor y Azure Functions
 
 - ✅ **[Slide Presentation](https://bit.ly/2yzYPT4)**
-- ✅ **[Azure para desarrolladores JavaScript y Node.js](https://docs.microsoft.com/javascript/azure/?WT.mc_id=iwdevent-github-gllemos&view=azure-node-latest)**
-- ✅ **[Documentación Azure Functions](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=iwdevent-github-gllemos)**
-- ✅ **[Extensão Vs Code – Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=senacpoa-github-gllemos)**
-- ✅ **[E-Book Grátis - Azure Serverless Computing Cookbook](https://azure.microsoft.com/resources/azure-serverless-computing-cookbook/?WT.mc_id=iwdevent-github-gllemos)**
-- ✅ **[Cursos Grátis - Azure Functions](https://docs.microsoft.com/learn/browse/?term=functions&WT.mc_id=iwdevent-github-gllemos)**
+- ✅ **[Azure para desarrolladores JavaScript y Node.js](https://docs.microsoft.com/javascript/azure/?WT.mc_id=javascript-0000-gllemos&view=azure-node-latest)**
+- ✅ **[Documentación Azure Functions](https://docs.microsoft.com/azure/azure-functions/?WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[Extensão Vs Code – Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions&WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[E-Book Grátis - Azure Serverless Computing Cookbook](https://azure.microsoft.com/resources/azure-serverless-computing-cookbook/?WT.mc_id=javascript-0000-gllemos)**
+- ✅ **[Cursos Grátis - Azure Functions](https://docs.microsoft.com/learn/browse/?term=functions&WT.mc_id=javascript-0000-gllemos)**
 
 ## ¿Dudas? ❗️❗️
 
